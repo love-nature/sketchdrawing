@@ -1,0 +1,14 @@
+background{
+color:coral;
+}
+
+score{
+    font-size:36;
+    margin-left: 30px;
+}
+
+timer{
+    font-size:36;
+    float:right;
+    margin-right:30px;
+}
